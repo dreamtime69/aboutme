@@ -1,0 +1,59 @@
+.hovercolor{
+  padding: 5px;
+  margin: -5px;
+}
+.italics{
+  font-style: italic;
+  margin-top: -6px;
+}
+.bottommargin{
+  margin-bottom: -10px;
+}
+.topmargin{
+  margin-top: 40px;
+}
+.messabout{
+	margin-top: -14px;
+}
+*{
+  font: 16pt arial;
+}
+h1{
+  font-size: 140%;
+  font-weight:bold;
+  margin-bottom: -20px;
+  text-transform: uppercase;
+}
+
+div{
+  background-color: lightgrey;
+  border: 1px solid aquamarine;
+  padding: 30px;
+}
+
+h2{
+  margin: 1px;
+  font-size: 120%;
+  font-weight:bold;
+  margin-bottom: -20px;
+  color: grey;
+  text-decoration: underline;
+}
+p,li{
+  font-size: 70%;
+}
+h3{
+  font-size: 100%;
+  margin-bottom: 0px;
+}
+h4{
+  margin: 1px;
+  margin-bottom: -20px;
+  font-size: 85%;
+}
+section.hovercolor:hover{
+  background-color: lightblue;
+}
+header.hovercolor:hover{
+  background-color: lightgreen;
+}
